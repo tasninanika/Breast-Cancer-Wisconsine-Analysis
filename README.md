@@ -77,6 +77,9 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 ## 🙌 Acknowledgments
 
 UCI Machine Learning Repository for providing the Breast Cancer Wisconsin Dataset.
+
 Scikit-learn: For robust machine learning algorithms and evaluation tools.
+
 Pandas and Matplotlib: For data manipulation and visualization.
+
 Jupyter: For an interactive development environment.
